@@ -1,0 +1,8 @@
+numpy
+pandas
+pandas_profiling
+plotly
+seaborn
+streamlit
+streamlit_pandas_profiling
+ydata_profiling
